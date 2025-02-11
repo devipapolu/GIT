@@ -1,0 +1,11 @@
+GIT : git is ntg but version control system/scm(source code management) tools.
+VCS:
+ * vcs is used in software industry where developer/teams to keep their source code changes at one place.(keeep the code and track the code )
+ *tracking the changes had made to the source code with complete details (who,when,why).vcs can track text files and other file but except vedios and heavy quality images.
+ *creating different versions when the changes had made to the code.
+ *vcs allows you to switch(present and previous)versions of files.
+ *source code is stored in repository(called as repo)
+  *undo(retrive) changes when we required.
+  *allow teams work on source code simultaneously.
+HISTORY: 
+  
